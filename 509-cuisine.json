@@ -29,38 +29,43 @@
   ],
   "menu_categories": [
     {
-      "name": "Signature Plates",
+      "name": "Entrees",
       "items": [
-        {"name": "Griot", "desc": "Fried pork marinated in citrus & spices", "price": "$15.00"},
-        {"name": "Poule en Sauce", "desc": "Stewed chicken in rich Creole sauce", "price": "$14.00"},
-        {"name": "Tasso Cabrit", "desc": "Fried goat with pikliz", "price": "$18.00"},
-        {"name": "Lambi", "desc": "Conch in savory Creole sauce", "price": "$20.00"}
+        {"name": "Griot", "desc": "Marinated pork, slow-braised then fried crispy. Served with fried plantains", "price": "$23"},
+        {"name": "Poul Fri", "desc": "Juicy marinated chicken simmered in epis, fried to golden perfection", "price": "$20"},
+        {"name": "Taso Bef", "desc": "Tender beef marinated in epis spices, simmered and fried crispy", "price": "$23"},
+        {"name": "Taso Kabrit", "desc": "Tender goat, marinated in Creole spices, fried to perfection", "price": "$28"},
+        {"name": "Tilapia Fri", "desc": "Fish marinated with epis, coated and fried golden brown", "price": "$17"},
+        {"name": "Pwason Fri", "desc": "Whole fish fried crisp with rich epis and spices", "price": "$48"}
       ]
     },
     {
-      "name": "Sides & Extras",
+      "name": "Appetizers",
       "items": [
-        {"name": "Diri ak Djon Djon", "desc": "Black mushroom rice", "price": "$5.00"},
-        {"name": "Bannann Peze", "desc": "Twice-fried plantains", "price": "$4.00"},
-        {"name": "Pikliz", "desc": "Spicy pickled cabbage & pepper slaw", "price": "$3.00"},
-        {"name": "Macaroni au Gratin", "desc": "Creamy baked Haitian mac & cheese", "price": "$5.00"}
+        {"name": "Tacos (2pc)", "desc": "Fish, pork, or shrimp with lettuce, avocado, pikliz in warm tortilla", "price": "$8"},
+        {"name": "Creamy Creole Shrimp", "desc": "Shrimp sauteed with bell peppers in spicy cream sauce, fried plantains", "price": "$15"}
       ]
     },
     {
-      "name": "Soups & Stews",
+      "name": "Sides",
       "items": [
-        {"name": "Soup Joumou", "desc": "Traditional Haitian pumpkin soup", "price": "$12.00"},
-        {"name": "Bouillon", "desc": "Hearty vegetable & meat stew", "price": "$13.00"},
-        {"name": "Legim", "desc": "Haitian vegetable stew", "price": "$11.00"}
+        {"name": "Diri Djondjon", "desc": "Aromatic black mushroom rice with coconut milk & seasoned shrimp", "price": "$7"},
+        {"name": "Diri Kole a Pwa", "desc": "Classic Haitian rice and beans with herbs & spices", "price": "$7"},
+        {"name": "Bannann Peze", "desc": "Twice-fried plantains — crispy outside, soft inside", "price": "$7"},
+        {"name": "Pikliz", "desc": "Spicy cabbage slaw with habanero peppers", "price": "$6"},
+        {"name": "Makaroni Gratine", "desc": "Haitian-style baked mac & cheese with bubbly crust", "price": "$7"},
+        {"name": "Akra", "desc": "Crispy fritters made from grated malanga root", "price": "$7"},
+        {"name": "Salad Russe", "desc": "Haitian potato and beet salad in creamy mayo dressing", "price": "$6"}
       ]
     },
     {
-      "name": "Drinks",
+      "name": "Specials & Drinks",
       "items": [
-        {"name": "Kremas", "desc": "Haitian coconut cream liqueur", "price": "$8.00"},
-        {"name": "Jus de Corossol", "desc": "Soursop juice", "price": "$5.00"},
-        {"name": "Prestige Beer", "desc": "Haiti's finest lager", "price": "$6.00"},
-        {"name": "Haitian Coffee", "desc": "Rich, dark-roasted", "price": "$3.50"}
+        {"name": "Legume (Thu only)", "desc": "Rich Haitian stew with eggplant, cabbage, chayote, beef", "price": "$23"},
+        {"name": "Fritay (Fri only)", "desc": "Haitian street food platter with patè, marinàd, bannann peze", "price": "$28+"},
+        {"name": "Lalo (Sat only)", "desc": "Jute leaf stew with tender beef, herbs & epis", "price": "$23"},
+        {"name": "Haitian Lemonade", "desc": "Traditional citrus refresher", "price": "$5"},
+        {"name": "Passion Fruit Juice", "desc": "Fresh tropical passion fruit", "price": "$5"}
       ]
     }
   ],
@@ -71,12 +76,12 @@
   ],
   "hours": {
     "Monday": "Closed",
-    "Tuesday": "12pm - 9pm",
-    "Wednesday": "12pm - 9pm",
-    "Thursday": "12pm - 9pm",
-    "Friday": "12pm - 10pm",
-    "Saturday": "12pm - 10pm",
-    "Sunday": "12pm - 8pm"
+    "Tuesday": "11am - 8pm",
+    "Wednesday": "11am - 8pm",
+    "Thursday": "11am - 8pm",
+    "Friday": "11am - 6pm",
+    "Saturday": "11am - 8pm",
+    "Sunday": "Closed"
   },
   "services": "Dine-in · Takeout · Delivery"
 }
