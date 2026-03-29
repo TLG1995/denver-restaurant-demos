@@ -1,0 +1,61 @@
+{
+  "name": "Geez Habesha",
+  "cuisine": "Ethiopian",
+  "cuisine_label": "Ethiopian Bar & Restaurant",
+  "city": "Aurora, CO",
+  "tagline": "Authentic Ethiopian flavors on Havana Street.\nWhere tradition meets community.",
+  "rating": "4.6",
+  "reviews": "62",
+  "phone": "(720) 596-4809",
+  "address": "262 Havana St, Unit E, Aurora, CO 80010",
+  "color1": "#006D32",
+  "color2": "#004D23",
+  "color2_alpha": "rgba(0,77,35,0.7)",
+  "accent": "#FFD700",
+  "badge_text": "Havana Street · Aurora",
+  "hero_img": "img/hero.jpg",
+  "about_img": "img/food1.jpg",
+  "about_title": "Ethiopian Soul on Havana Street",
+  "about_paragraphs": [
+    "Geez Habesha brings the warm, communal spirit of Ethiopian dining to Aurora's vibrant Havana Street corridor.",
+    "Our kitchen prepares traditional dishes using time-honored recipes and the finest spices — from our aromatic berbere-spiced stews to our fresh, spongy injera baked in-house daily.",
+    "Come for the food, stay for the hand-brewed Ethiopian coffee. This is more than a meal — it's an experience."
+  ],
+  "menu_subtitle": "Traditional Ethiopian cuisine & handcrafted coffee",
+  "gallery_images": [],
+  "menu_categories": [
+    {
+      "name": "Entrees",
+      "items": [
+        {"name": "Doro Wot", "desc": "Chicken in berbere sauce with egg", "price": "$17.00"},
+        {"name": "Yebeg Tibs", "desc": "Sauteed lamb with peppers & herbs", "price": "$18.00"},
+        {"name": "Kitfo", "desc": "Ethiopian beef tartare, spiced butter", "price": "$17.00"},
+        {"name": "Derek Tibs", "desc": "Dry-fried beef cubes with jalapeño", "price": "$16.00"}
+      ]
+    },
+    {
+      "name": "Vegetarian",
+      "items": [
+        {"name": "Beyaynetu", "desc": "Vegetarian combo platter on injera", "price": "$14.00"},
+        {"name": "Misir Wot", "desc": "Red lentils in berbere sauce", "price": "$13.00"},
+        {"name": "Gomen", "desc": "Collard greens with garlic & ginger", "price": "$12.00"},
+        {"name": "Shiro", "desc": "Smooth chickpea stew", "price": "$12.00"}
+      ]
+    }
+  ],
+  "reviews_list": [
+    {"text": "The service was friendly and quick and the food was AMAZING! The injera was fresh and the stews were perfectly spiced. A hidden gem on Havana.", "author": "Google Reviewer"},
+    {"text": "Delicious food, cute atmosphere, SUPER friendly staff! The coffee ceremony was an amazing experience we'll never forget.", "author": "First-time Visitor"},
+    {"text": "Best Ethiopian food on Havana Street. The vegetarian platter is incredible — so many flavors, and the injera is the best I've had in Colorado.", "author": "Local Regular"}
+  ],
+  "hours": {
+    "Monday": "11am - 2am",
+    "Tuesday": "11am - 2am",
+    "Wednesday": "Closed",
+    "Thursday": "11am - 2am",
+    "Friday": "11am - 2am",
+    "Saturday": "11am - 2am",
+    "Sunday": "11am - 2am"
+  },
+  "services": "Dine-in · Takeout · Bar"
+}

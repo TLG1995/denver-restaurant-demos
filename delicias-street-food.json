@@ -1,0 +1,61 @@
+{
+  "name": "Delicias Street Food",
+  "cuisine": "Mexican",
+  "cuisine_label": "Street Food Kitchen",
+  "city": "Denver, CO",
+  "tagline": "Denver's best-kept secret on Federal Boulevard.\nReal street food. Real flavor. Real love.",
+  "rating": "4.6",
+  "reviews": "45",
+  "phone": "(720) 483-6419",
+  "address": "500 S Federal Blvd, Denver, CO 80219",
+  "color1": "#D84315",
+  "color2": "#BF360C",
+  "color2_alpha": "rgba(191,54,12,0.65)",
+  "accent": "#FFC107",
+  "badge_text": "Federal Blvd · Denver",
+  "hero_img": "img/hero.jpg",
+  "about_img": "img/food1.jpg",
+  "about_title": "Street Food Done Right",
+  "about_paragraphs": [
+    "Delicias Street Food is what happens when family recipes meet Federal Boulevard. Our kitchen is small but our flavors are massive.",
+    "From our legendary chile relleno burrito to our handmade pupusas, everything is prepared fresh to order with ingredients we trust and techniques we've perfected over years.",
+    "We're not trying to be fancy — we're trying to be the best bite you've had all week."
+  ],
+  "menu_subtitle": "Handmade. Fresh to order. Always delicious.",
+  "gallery_images": [],
+  "menu_categories": [
+    {
+      "name": "Burritos",
+      "items": [
+        {"name": "Chile Relleno Burrito", "desc": "Stuffed poblano wrapped in a burrito — our signature", "price": "$12.00"},
+        {"name": "Carne Asada Burrito", "desc": "Grilled steak with rice, beans, salsa", "price": "$11.00"},
+        {"name": "Supreme Burrito", "desc": "Steak & chile relleno combo", "price": "$14.00"},
+        {"name": "Breakfast Burrito", "desc": "Eggs, chorizo, potato, cheese", "price": "$9.00"}
+      ]
+    },
+    {
+      "name": "Tacos & Pupusas",
+      "items": [
+        {"name": "Street Tacos (3)", "desc": "Choice of meat, cilantro, onion", "price": "$9.00"},
+        {"name": "Pupusas Revueltas", "desc": "Cheese, bean & pork stuffed", "price": "$4.00"},
+        {"name": "Pupusas de Queso", "desc": "Cheese-stuffed with curtido", "price": "$3.50"},
+        {"name": "Quesadilla", "desc": "Flour tortilla, cheese, choice of meat", "price": "$10.00"}
+      ]
+    }
+  ],
+  "reviews_list": [
+    {"text": "THE BOMB. Definitely the best burrito I've had in Colorado, maybe anywhere. The carne asada burrito with the chile relleno is what you gotta get.", "author": "Kalla P."},
+    {"text": "Food is amazing, friendly staff, you need to check this place out! The salsa bar is incredible too.", "author": "Google Reviewer"},
+    {"text": "Chili relleno burrito is fire! I like to add rice and beans. And the pupusas are perfect.", "author": "Local Regular"}
+  ],
+  "hours": {
+    "Monday": "11am - 8pm",
+    "Tuesday": "Closed",
+    "Wednesday": "11am - 8pm",
+    "Thursday": "11am - 8pm",
+    "Friday": "11am - 8pm",
+    "Saturday": "11am - 8pm",
+    "Sunday": "11am - 8pm"
+  },
+  "services": "Dine-in · Takeout · Delivery"
+}

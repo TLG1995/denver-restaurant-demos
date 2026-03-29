@@ -1,0 +1,82 @@
+{
+  "name": "The Ethiopian Restaurant",
+  "cuisine": "Ethiopian",
+  "cuisine_label": "Traditional Ethiopian Kitchen",
+  "city": "Denver, CO",
+  "tagline": "Colorado's first Ethiopian restaurant since 1985.\nFamily-owned. Tradition-driven. Flavor-first.",
+  "rating": "4.7",
+  "reviews": "503",
+  "phone": "(303) 322-5939",
+  "address": "2816 E Colfax Ave, Denver, CO 80206",
+  "color1": "#B8860B",
+  "color2": "#6B4E0A",
+  "color2_alpha": "rgba(107,78,10,0.7)",
+  "accent": "#E8A317",
+  "badge_text": "Since 1985 · Denver's First",
+  "hero_img": "img/hero.jpg",
+  "about_img": "img/food1.jpg",
+  "about_title": "Colorado's First Ethiopian Restaurant",
+  "about_paragraphs": [
+    "Since 1985, The Ethiopian Restaurant has been introducing Denver to the rich, complex flavors of Ethiopian cuisine. We were the first — and we're still the standard.",
+    "Every dish is served on injera, our signature spongy sourdough flatbread made fresh daily. Tear off a piece, scoop up a bite of spicy doro wot or tender lamb tibs, and experience food the way it was meant to be shared.",
+    "Family-owned and operated for nearly 40 years, we serve traditional recipes passed down through generations. No shortcuts. No fusion. Just authentic Ethiopian food."
+  ],
+  "menu_subtitle": "Traditional Ethiopian dishes served on fresh injera",
+  "gallery_images": [
+    {"src": "img/hero.jpg", "alt": "Traditional Ethiopian vegetarian combo on injera"},
+    {"src": "img/food1.jpg", "alt": "Ethiopian dishes with lentils, greens, and stews"},
+    {"src": "img/hero.jpg", "alt": "Injera platter with assorted stews"}
+  ],
+  "menu_categories": [
+    {
+      "name": "Meat Entrees",
+      "items": [
+        {"name": "Doro Wot", "desc": "Chicken stew in berbere sauce with hard-boiled egg", "price": "$18.00"},
+        {"name": "Yebeg Wot", "desc": "Lamb stew in rich berbere sauce", "price": "$19.00"},
+        {"name": "Tibs", "desc": "Sauteed beef or lamb with peppers & onions", "price": "$17.00"},
+        {"name": "Kitfo", "desc": "Ethiopian steak tartare with spiced butter", "price": "$18.00"}
+      ]
+    },
+    {
+      "name": "Vegetarian",
+      "items": [
+        {"name": "Vegetarian Combo", "desc": "Assortment of lentils, greens, cabbage & more", "price": "$15.00"},
+        {"name": "Misir Wot", "desc": "Spicy red lentil stew", "price": "$14.00"},
+        {"name": "Gomen", "desc": "Sauteed collard greens with garlic", "price": "$13.00"},
+        {"name": "Shiro", "desc": "Chickpea flour stew with berbere", "price": "$13.00"}
+      ]
+    },
+    {
+      "name": "Combos",
+      "items": [
+        {"name": "Meat Combo for 2", "desc": "Chef's selection of meat dishes on injera", "price": "$35.00"},
+        {"name": "Mixed Combo for 2", "desc": "Meat & vegetarian dishes together", "price": "$34.00"},
+        {"name": "Grand Platter for 4", "desc": "Feast-sized combo for sharing", "price": "$60.00"}
+      ]
+    },
+    {
+      "name": "Drinks & Extras",
+      "items": [
+        {"name": "Ethiopian Coffee Ceremony", "desc": "Traditional roasting & brewing experience", "price": "$8.00"},
+        {"name": "Tej", "desc": "Ethiopian honey wine", "price": "$7.00"},
+        {"name": "Extra Injera (3pc)", "desc": "Fresh sourdough flatbread", "price": "$3.00"},
+        {"name": "Sambusa (2pc)", "desc": "Crispy pastry with lentil or meat filling", "price": "$6.00"}
+      ]
+    }
+  ],
+  "reviews_list": [
+    {"text": "Traditional Ethiopian food with massive proportions for a great price. The injera is always fresh and the doro wot has the perfect level of spice. A Denver institution.", "author": "Google Reviewer"},
+    {"text": "We've been coming here for 10 years. Consistently excellent food, warm service, and an authentic atmosphere you won't find anywhere else in Denver.", "author": "Long-time Regular"},
+    {"text": "First time trying Ethiopian food and this was the perfect introduction. The vegetarian combo was incredible — so many flavors on one plate. Cash only!", "author": "First-time Visitor"}
+  ],
+  "hours": {
+    "Monday": "4pm - 9:30pm",
+    "Tuesday": "4pm - 9:30pm",
+    "Wednesday": "4pm - 9:30pm",
+    "Thursday": "4pm - 9:30pm",
+    "Friday": "4pm - 9:30pm",
+    "Saturday": "4pm - 9:30pm",
+    "Sunday": "4pm - 9:30pm"
+  },
+  "services": "Dine-in · Takeout · Cash Only"
+}

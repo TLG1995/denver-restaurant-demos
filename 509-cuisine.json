@@ -1,0 +1,82 @@
+{
+  "name": "509 Cuisine",
+  "cuisine": "Haitian",
+  "cuisine_label": "Authentic Haitian Kitchen",
+  "city": "Denver, CO",
+  "tagline": "Bold Caribbean flavors from the heart of Haiti.\nBrought to Denver with love and tradition.",
+  "rating": "4.9",
+  "reviews": "79",
+  "phone": "(720) 850-9999",
+  "address": "10180 E Colfax Ave #117, Aurora, CO 80010",
+  "color1": "#1B5E20",
+  "color2": "#0D3B0F",
+  "color2_alpha": "rgba(13,59,15,0.65)",
+  "accent": "#FFB300",
+  "badge_text": "Authentic Haitian Cuisine",
+  "hero_img": "img/hero.jpg",
+  "about_img": "img/food1.jpg",
+  "about_title": "A Taste of Haiti in Colorado",
+  "about_paragraphs": [
+    "509 Cuisine brings the bold, vibrant flavors of Haiti to the Denver metro area. Every dish is a celebration of Caribbean tradition — slow-cooked, deeply seasoned, and made with soul.",
+    "From our signature griot and pikliz to our tender stewed chicken, each plate tells the story of Haitian home cooking passed down through generations.",
+    "Named after Haiti's country code, 509 is more than a restaurant — it's a piece of home for the Haitian community and a flavor adventure for everyone else."
+  ],
+  "menu_subtitle": "Bold Caribbean flavors, made fresh daily",
+  "gallery_images": [
+    {"src": "img/hero.jpg", "alt": "Haitian plate with djon djon rice, plantains, and pikliz"},
+    {"src": "img/food2.jpg", "alt": "Red snapper in Creole sauce with rice and plantains"},
+    {"src": "img/food1.jpg", "alt": "Traditional Haitian platter with orchid garnish"}
+  ],
+  "menu_categories": [
+    {
+      "name": "Signature Plates",
+      "items": [
+        {"name": "Griot", "desc": "Fried pork marinated in citrus & spices", "price": "$15.00"},
+        {"name": "Poule en Sauce", "desc": "Stewed chicken in rich Creole sauce", "price": "$14.00"},
+        {"name": "Tasso Cabrit", "desc": "Fried goat with pikliz", "price": "$18.00"},
+        {"name": "Lambi", "desc": "Conch in savory Creole sauce", "price": "$20.00"}
+      ]
+    },
+    {
+      "name": "Sides & Extras",
+      "items": [
+        {"name": "Diri ak Djon Djon", "desc": "Black mushroom rice", "price": "$5.00"},
+        {"name": "Bannann Peze", "desc": "Twice-fried plantains", "price": "$4.00"},
+        {"name": "Pikliz", "desc": "Spicy pickled cabbage & pepper slaw", "price": "$3.00"},
+        {"name": "Macaroni au Gratin", "desc": "Creamy baked Haitian mac & cheese", "price": "$5.00"}
+      ]
+    },
+    {
+      "name": "Soups & Stews",
+      "items": [
+        {"name": "Soup Joumou", "desc": "Traditional Haitian pumpkin soup", "price": "$12.00"},
+        {"name": "Bouillon", "desc": "Hearty vegetable & meat stew", "price": "$13.00"},
+        {"name": "Legim", "desc": "Haitian vegetable stew", "price": "$11.00"}
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {"name": "Kremas", "desc": "Haitian coconut cream liqueur", "price": "$8.00"},
+        {"name": "Jus de Corossol", "desc": "Soursop juice", "price": "$5.00"},
+        {"name": "Prestige Beer", "desc": "Haiti's finest lager", "price": "$6.00"},
+        {"name": "Haitian Coffee", "desc": "Rich, dark-roasted", "price": "$3.50"}
+      ]
+    }
+  ],
+  "reviews_list": [
+    {"text": "The flavors were absolutely authentic — each dish felt like a trip to Haiti! The griot was perfectly crispy and the pikliz had just the right kick.", "author": "Google Reviewer"},
+    {"text": "Finally, real Haitian food in Denver! The portions are generous, the rice is perfect, and the staff treats you like family. Will be back weekly.", "author": "Local Regular"},
+    {"text": "509 Cuisine is a hidden gem. The goat was tender and perfectly seasoned. If you haven't tried Haitian food before, this is the place to start.", "author": "First-time Visitor"}
+  ],
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "12pm - 9pm",
+    "Wednesday": "12pm - 9pm",
+    "Thursday": "12pm - 9pm",
+    "Friday": "12pm - 10pm",
+    "Saturday": "12pm - 10pm",
+    "Sunday": "12pm - 8pm"
+  },
+  "services": "Dine-in · Takeout · Delivery"
+}
