@@ -29,38 +29,42 @@
   ],
   "menu_categories": [
     {
-      "name": "Meat Entrees",
+      "name": "Poultry (Doro)",
       "items": [
-        {"name": "Doro Wot", "desc": "Chicken stew in berbere sauce with hard-boiled egg", "price": "$18.00"},
-        {"name": "Yebeg Wot", "desc": "Lamb stew in rich berbere sauce", "price": "$19.00"},
-        {"name": "Tibs", "desc": "Sauteed beef or lamb with peppers & onions", "price": "$17.00"},
-        {"name": "Kitfo", "desc": "Ethiopian steak tartare with spiced butter", "price": "$18.00"}
+        {"name": "Doro Wot", "desc": "National dish — chicken stewed in red pepper berbere sauce", "price": ""},
+        {"name": "Doro Tibs", "desc": "Cubed chicken sauteed in a special blend of spices", "price": ""},
+        {"name": "Doro Alitcha", "desc": "Mildly seasoned chicken served in mild sauce", "price": ""},
+        {"name": "Doro Fitfit", "desc": "Doro wot mixed with pieces of injera", "price": ""}
       ]
     },
     {
-      "name": "Vegetarian",
+      "name": "Lamb (Yebeg)",
       "items": [
-        {"name": "Vegetarian Combo", "desc": "Assortment of lentils, greens, cabbage & more", "price": "$15.00"},
-        {"name": "Misir Wot", "desc": "Spicy red lentil stew", "price": "$14.00"},
-        {"name": "Gomen", "desc": "Sauteed collard greens with garlic", "price": "$13.00"},
-        {"name": "Shiro", "desc": "Chickpea flour stew with berbere", "price": "$13.00"}
+        {"name": "Yebeg Wot", "desc": "Freshly made lamb stew served with injera", "price": ""},
+        {"name": "Awaze Tibs", "desc": "Tender lamb morsels marinated in berbere sauce", "price": ""},
+        {"name": "Lega Yebeg Tibs", "desc": "Tender lamb morsels sauteed to perfection", "price": ""},
+        {"name": "Gomen Be Siga", "desc": "Mild lamb stew with collard greens", "price": ""}
       ]
     },
     {
-      "name": "Combos",
+      "name": "Beef (Siga)",
       "items": [
-        {"name": "Meat Combo for 2", "desc": "Chef's selection of meat dishes on injera", "price": "$35.00"},
-        {"name": "Mixed Combo for 2", "desc": "Meat & vegetarian dishes together", "price": "$34.00"},
-        {"name": "Grand Platter for 4", "desc": "Feast-sized combo for sharing", "price": "$60.00"}
+        {"name": "Kitfo", "desc": "Finely chopped prime beef seasoned with mitmita & kibe", "price": ""},
+        {"name": "Tibs", "desc": "Prime beef sauteed with onion, tomato, garlic & jalapeño", "price": ""},
+        {"name": "Derek Tibs", "desc": "Char-broiled beef tender seasoned with spices", "price": ""},
+        {"name": "Key Wot", "desc": "Hot and spicy beef stew", "price": ""},
+        {"name": "Gored Gored", "desc": "Chunked cubed beef mixed with awaze", "price": ""}
       ]
     },
     {
-      "name": "Drinks & Extras",
+      "name": "Vegetarian & Sides",
       "items": [
-        {"name": "Ethiopian Coffee Ceremony", "desc": "Traditional roasting & brewing experience", "price": "$8.00"},
-        {"name": "Tej", "desc": "Ethiopian honey wine", "price": "$7.00"},
-        {"name": "Extra Injera (3pc)", "desc": "Fresh sourdough flatbread", "price": "$3.00"},
-        {"name": "Sambusa (2pc)", "desc": "Crispy pastry with lentil or meat filling", "price": "$6.00"}
+        {"name": "Misir Wot", "desc": "Pureed red lentils simmered in berbere sauce", "price": ""},
+        {"name": "Gomen", "desc": "Collard greens cooked to perfection with spices", "price": ""},
+        {"name": "Shiro Wot", "desc": "Split peas milled together and slow cooked", "price": ""},
+        {"name": "Sambussa", "desc": "Vegetarian or meat filled fried dough", "price": ""},
+        {"name": "Kategna", "desc": "Injera with herbed butter & chili", "price": ""},
+        {"name": "Ethiopian Coffee", "desc": "Traditional roasting & brewing ceremony", "price": ""}
       ]
     }
   ],
