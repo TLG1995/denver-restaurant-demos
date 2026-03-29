@@ -1,0 +1,62 @@
+{
+  "name": "Tacos Martin",
+  "cuisine": "Mexican",
+  "cuisine_label": "Food Truck · Street Tacos",
+  "city": "Denver, CO",
+  "tagline": "Denver's late-night taco destination on Santa Fe.\nFresh off the grill. Worth the wait.",
+  "rating": "4.7",
+  "reviews": "62",
+  "phone": "(720) 569-1757",
+  "address": "475 Santa Fe Dr, Denver, CO 80204",
+  "color1": "#E65100",
+  "color2": "#BF360C",
+  "color2_alpha": "rgba(191,54,12,0.7)",
+  "accent": "#FFD600",
+  "badge_text": "Santa Fe Dr · Denver",
+  "hero_img": "img/hero.jpg",
+  "about_img": "img/food1.jpg",
+  "about_title": "Late Night. Fresh Grill. Real Tacos.",
+  "about_paragraphs": [
+    "Tacos Martin is Denver's go-to late-night taco truck on Santa Fe Drive. When the cravings hit after midnight, we're still firing up the grill.",
+    "Our al pastor is marinated for hours, our carne asada is grilled to order, and our salsa bar is stocked with house-made sauces that bring the heat.",
+    "No frills. No pretense. Just honest, delicious tacos served the way they should be — hot, fresh, and packed with flavor."
+  ],
+  "menu_subtitle": "Grilled fresh. Served hot. Open late.",
+  "gallery_images": [],
+  "menu_categories": [
+    {
+      "name": "Tacos",
+      "items": [
+        {"name": "Al Pastor", "desc": "Marinated pork, pineapple, cilantro, onion", "price": "$3.50"},
+        {"name": "Carne Asada", "desc": "Grilled steak, fresh salsa", "price": "$4.00"},
+        {"name": "Barbacoa", "desc": "Slow-braised beef cheek", "price": "$4.00"},
+        {"name": "Chorizo", "desc": "House-made Mexican sausage", "price": "$3.50"},
+        {"name": "Lengua", "desc": "Tender beef tongue", "price": "$4.50"}
+      ]
+    },
+    {
+      "name": "Quesadillas & More",
+      "items": [
+        {"name": "Quesadilla", "desc": "Large flour tortilla, cheese, choice of meat", "price": "$10.00"},
+        {"name": "Mulita", "desc": "Double tortilla with meat, cheese, salsa", "price": "$5.00"},
+        {"name": "Torta", "desc": "Mexican sandwich with avocado & jalapeño", "price": "$10.00"},
+        {"name": "Horchata", "desc": "House-made cinnamon rice milk", "price": "$3.00"}
+      ]
+    }
+  ],
+  "reviews_list": [
+    {"text": "Delicious tacos, friendly people, highly recommended! The al pastor and barbacoa are next level.", "author": "Google Reviewer"},
+    {"text": "Best late-night tacos in Denver. The salsa bar is incredible — green salsa is addictive. Cash only but SO worth it.", "author": "Night Owl"},
+    {"text": "Found this truck at midnight and it changed my life. Perfectly seasoned meat, fresh tortillas, and the portions are generous.", "author": "First-time Visitor"}
+  ],
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "Closed",
+    "Friday": "8pm - 1am",
+    "Saturday": "8pm - 1am",
+    "Sunday": "4pm - 10pm"
+  },
+  "services": "Takeout · Cash Only"
+}

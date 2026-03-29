@@ -1,0 +1,62 @@
+{
+  "name": "Sao Dem Lounge",
+  "cuisine": "Vietnamese",
+  "cuisine_label": "Vietnamese Kitchen & Lounge",
+  "city": "Denver, CO",
+  "tagline": "Authentic Vietnamese comfort food on Federal.\nPho, rice plates, and good vibes — all under one roof.",
+  "rating": "4.4",
+  "reviews": "24",
+  "phone": "(303) 933-7583",
+  "address": "555 S Federal Blvd, Denver, CO 80219",
+  "color1": "#C62828",
+  "color2": "#8E0000",
+  "color2_alpha": "rgba(142,0,0,0.65)",
+  "accent": "#FFD54F",
+  "badge_text": "Federal Blvd · Denver",
+  "hero_img": "img/hero.jpg",
+  "about_img": "img/food1.jpg",
+  "about_title": "A Taste of Vietnam on Federal",
+  "about_paragraphs": [
+    "Sao Dem Starry Night Lounge brings the comforting flavors of Vietnam to Denver's Federal Boulevard. Our kitchen serves authentic pho, rice plates, and Vietnamese favorites made the traditional way.",
+    "Whether you're craving a steaming bowl of pho on a cold Colorado evening or looking for a casual spot to gather with friends, Sao Dem delivers warmth in every bowl.",
+    "Family recipes. Fresh ingredients. A welcoming atmosphere that keeps you coming back."
+  ],
+  "menu_subtitle": "Steaming bowls. Fresh flavors. Vietnamese comfort.",
+  "gallery_images": [],
+  "menu_categories": [
+    {
+      "name": "Pho",
+      "items": [
+        {"name": "Combination Pho", "desc": "Beef broth with rare steak, brisket, tendon, tripe", "price": "$14.00"},
+        {"name": "Rare Steak Pho", "desc": "Beef broth with thin-sliced rare steak", "price": "$13.00"},
+        {"name": "Chicken Pho", "desc": "Clear broth with tender chicken", "price": "$13.00"},
+        {"name": "Shrimp Pho", "desc": "Broth with fresh shrimp", "price": "$14.00"},
+        {"name": "Meatball Pho", "desc": "Beef broth with house-made meatballs", "price": "$13.00"}
+      ]
+    },
+    {
+      "name": "Rice Plates & More",
+      "items": [
+        {"name": "Broken Rice Plate", "desc": "Grilled pork, egg, and pickled vegetables", "price": "$13.00"},
+        {"name": "Vermicelli Bowl", "desc": "Rice noodles with grilled meat & fresh herbs", "price": "$13.00"},
+        {"name": "Spring Rolls (4pc)", "desc": "Fresh shrimp & herb rolls with peanut sauce", "price": "$7.00"},
+        {"name": "Vietnamese Iced Coffee", "desc": "Strong drip coffee with condensed milk", "price": "$5.00"}
+      ]
+    }
+  ],
+  "reviews_list": [
+    {"text": "Delicious food, great service, friendly staff!! The pho is exactly what you want on a cold Denver night.", "author": "Google Reviewer"},
+    {"text": "Hidden gem on Federal! The combination pho is loaded with meat and the broth is rich and flavorful. Great value too.", "author": "Local Regular"},
+    {"text": "Cozy atmosphere, authentic Vietnamese food, and the prices are very reasonable. We'll definitely be back.", "author": "First-time Visitor"}
+  ],
+  "hours": {
+    "Monday": "11am - 12am",
+    "Tuesday": "11am - 12am",
+    "Wednesday": "Closed",
+    "Thursday": "11am - 12am",
+    "Friday": "11am - 2am",
+    "Saturday": "11am - 2am",
+    "Sunday": "Varies"
+  },
+  "services": "Dine-in · Takeout · Delivery · Bar · Karaoke"
+}
